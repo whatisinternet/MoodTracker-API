@@ -12,3 +12,5 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 gem 'unicorn'
 gem 'devise'
+gem 'simple_form'
+gem 'cancancan'
